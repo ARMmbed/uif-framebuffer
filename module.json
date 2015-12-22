@@ -1,0 +1,18 @@
+{
+  "name": "uif-framebuffer",
+  "version": "0.0.0",
+  "description": "UIFramework frame buffer abstraction class.",
+  "keywords": [],
+  "author": "Marcus Chang <marcus.chang@arm.com>",
+  "repository": {
+    "url": "git@github.com:ARMmbed/uif-framebuffer.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/uif-framebuffer",
+  "license": "Apache-2.0",
+  "targetDependencies": {
+    "framebuffer-1bit": {
+      "uif-framebuffer-1bit": "^1.0.0"
+    }
+  }
+}
