@@ -12,7 +12,8 @@
   "license": "Apache-2.0",
   "targetDependencies": {
     "framebuffer-1bit": {
-      "uif-framebuffer-1bit": "^1.0.0"
+      "uif-tools-1bit": "^2.0.0",
+      "uif-framebuffer-1bit": "^2.0.0"
     }
   }
 }
