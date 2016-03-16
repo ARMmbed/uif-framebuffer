@@ -1,6 +1,6 @@
 {
   "name": "uif-framebuffer",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "UIFramework frame buffer abstraction class.",
   "keywords": [],
   "author": "Marcus Chang <marcus.chang@arm.com>",
